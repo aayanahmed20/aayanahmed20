@@ -85,7 +85,8 @@ Focused on:
 - Harvard CS50 — edX  
 - Introduction to AI — Google  
 - Elements of AI — University of Helsinki  
-- LUMS AI Bootcamp  
+- LUMS AI Bootcamp
+- Stanford Daily Tech Bootcamp
 
 ---
 
